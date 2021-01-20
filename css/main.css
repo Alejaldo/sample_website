@@ -3,4 +3,13 @@
 }
 .nav-spacing {
   margin: 0 0 0 10px;
+  text-decoration: none;
+  color: #61c6ed;
+}
+.nav-spacing-home {
+  text-decoration: none;
+  color: #61c6ed;
+}
+.image-link {
+  text-decoration: none;
 }
